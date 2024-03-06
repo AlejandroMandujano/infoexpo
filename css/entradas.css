@@ -1,0 +1,29 @@
+.entradas{
+    width: 194px;
+    height: auto;
+    margin-top: 300px;
+    display: inline-block;
+    margin-left: 1065px;
+    background-color: blueviolet;
+    border: 1.3px solid black;
+}
+
+#elementos li, a{
+    text-decoration: none;
+    text-decoration: none;
+    text-shadow: none;
+    color: black;
+}
+
+.comentarios{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+
+.ver_comentarios{
+    background-color: blueviolet;
+    height: auto;
+    width: auto;
+}
+
